@@ -1,6 +1,7 @@
 Movies App
 ==========
 
+![](/Resources/Main.png)![](/Resources/Movie.png)![](/Resources/Artist.png)![](/Resources/Search.png)
 
 Requirements
 ------------
